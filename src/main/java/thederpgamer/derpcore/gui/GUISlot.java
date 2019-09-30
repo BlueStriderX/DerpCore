@@ -5,7 +5,7 @@ import org.bukkit.block.Block;
 import org.bukkit.entity.Item;
 
 import main.java.thederpgamer.derpcore.blocks.CustomBlock;
-import main.java.thederpgamer.derpcore.blocks.CustomItem;
+import main.java.thederpgamer.derpcore.items.CustomItem;
 
 public class GUISlot {
 	public Item item;
